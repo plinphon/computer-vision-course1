@@ -11,4 +11,4 @@ pillow>=10.0
 
 matplotlib>=3.8,<3.11
 altair>=5,<6
-rich
+
